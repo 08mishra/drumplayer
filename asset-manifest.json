@@ -1,23 +1,29 @@
 {
   "files": {
     "main.css": "/drumplayer/static/css/main.00edd6cc.chunk.css",
-    "main.js": "/drumplayer/static/js/main.940a3b84.chunk.js",
-    "main.js.map": "/drumplayer/static/js/main.940a3b84.chunk.js.map",
-    "runtime-main.js": "/drumplayer/static/js/runtime-main.9aa133a1.js",
-    "runtime-main.js.map": "/drumplayer/static/js/runtime-main.9aa133a1.js.map",
-    "static/js/2.b200464a.chunk.js": "/drumplayer/static/js/2.b200464a.chunk.js",
-    "static/js/2.b200464a.chunk.js.map": "/drumplayer/static/js/2.b200464a.chunk.js.map",
-    "static/js/3.e4cc8c7a.chunk.js": "/drumplayer/static/js/3.e4cc8c7a.chunk.js",
-    "static/js/3.e4cc8c7a.chunk.js.map": "/drumplayer/static/js/3.e4cc8c7a.chunk.js.map",
+    "main.js": "/drumplayer/static/js/main.bdf584d8.chunk.js",
+    "main.js.map": "/drumplayer/static/js/main.bdf584d8.chunk.js.map",
+    "runtime-main.js": "/drumplayer/static/js/runtime-main.b145bb85.js",
+    "runtime-main.js.map": "/drumplayer/static/js/runtime-main.b145bb85.js.map",
+    "static/js/2.8f3d4157.chunk.js": "/drumplayer/static/js/2.8f3d4157.chunk.js",
+    "static/js/2.8f3d4157.chunk.js.map": "/drumplayer/static/js/2.8f3d4157.chunk.js.map",
+    "static/js/3.03674f60.chunk.js": "/drumplayer/static/js/3.03674f60.chunk.js",
+    "static/js/3.03674f60.chunk.js.map": "/drumplayer/static/js/3.03674f60.chunk.js.map",
     "index.html": "/drumplayer/index.html",
     "static/css/main.00edd6cc.chunk.css.map": "/drumplayer/static/css/main.00edd6cc.chunk.css.map",
-    "static/js/2.b200464a.chunk.js.LICENSE.txt": "/drumplayer/static/js/2.b200464a.chunk.js.LICENSE.txt",
-    "static/media/Drum.css": "/drumplayer/static/media/tom3.3f095c37.png"
+    "static/js/2.8f3d4157.chunk.js.LICENSE.txt": "/drumplayer/static/js/2.8f3d4157.chunk.js.LICENSE.txt",
+    "static/media/crash.83bc7d8d.mp3": "/drumplayer/static/media/crash.83bc7d8d.mp3",
+    "static/media/Drum.css": "/drumplayer/static/media/tom3.3f095c37.png",
+    "static/media/kick-bass.bbc2c60c.mp3": "/drumplayer/static/media/kick-bass.bbc2c60c.mp3",
+    "static/media/snare.310c0bf6.mp3": "/drumplayer/static/media/snare.310c0bf6.mp3",
+    "static/media/tom-1.1be451e0.mp3": "/drumplayer/static/media/tom-1.1be451e0.mp3",
+    "static/media/tom-2.7fe664d3.mp3": "/drumplayer/static/media/tom-2.7fe664d3.mp3",
+    "static/media/tom-3.a1b1019c.mp3": "/drumplayer/static/media/tom-3.a1b1019c.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.9aa133a1.js",
-    "static/js/2.b200464a.chunk.js",
+    "static/js/runtime-main.b145bb85.js",
+    "static/js/2.8f3d4157.chunk.js",
     "static/css/main.00edd6cc.chunk.css",
-    "static/js/main.940a3b84.chunk.js"
+    "static/js/main.bdf584d8.chunk.js"
   ]
 }
